@@ -1,14 +1,16 @@
-layout_spectrum: 0.15527715999633074
-typography_spectrum: 0.6197985291946679
+layout_spectrum: 0.5023368024267256
+typography_spectrum: 0.17578039807267487
 color:
-  brandStrength: 0.9781749434769154
-  lightness: 0.4795645249541849
-  saturation: 0.6137175210751593
-  rhythmicContrast: 0.2961142922285944
+  brandStrength: 0.19902087026275694
+  lightness: 0.3859165837056935
+  saturation: 0.012668030336499214
+  rhythmicContrast: 0.45242318604141474
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
 name: OPUS IX
+title: OPUS IX Supplements
+description: Cordyceps Militaris
