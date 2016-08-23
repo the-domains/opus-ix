@@ -11,6 +11,8 @@ color:
     - '#424E4F'
     - '#1B1D1E'
 layout_spectrum: 0.5023368024267256
+author:
+  name: OPUS IX @ JT Global
 name: OPUS IX
 navigation:
   - name: About Us
