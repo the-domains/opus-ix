@@ -21,5 +21,8 @@ navigation:
   - name: OPUS IX in Taiwan
     id: 5a3c9776-89f4-4ee9-a4b6-4879d2c74afe
     type: content
+  - name: What is OPUS IX?
+    id: 9bcfb76e-7437-4dd0-8c00-f69dba12debc
+    type: content
 title: OPUS IX Supplements
 description: Cordyceps Militaris
