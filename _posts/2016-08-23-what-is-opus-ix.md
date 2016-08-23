@@ -1,4 +1,33 @@
 ---
+id: 9bcfb76e-7437-4dd0-8c00-f69dba12debc
+metadata:
+  description: >-
+    Medicinal mushrooms have been known for thousands of years to produce
+    biometabolites which are used or studied as possible treatment for diseases.
+    Over two-third of cancer-related deaths could be prevented or reduced by
+    modifying our diet with mushrooms, as they contain anti-oxidants. Cordyceps
+    have a history of medicinal use spanning millennia in parts of Asia. An
+    entomopathogenic fungus, Cordyceps sp. has been known to have numerous
+    pharmacological and therapeutic implications, especially, in terms of human
+    health making it a suitable candidate for ethno-pharmacological use. Main
+    constituent of the extract derived from this fungus comprises a novel
+    bio-metabolite called as Cordycepin (3′deoxyadenosine) which has a very
+    potent anti-cancer, anti-oxidant and anti-inflammatory activities. There has
+    been many medicinal reviews on the broad spectrum potential of Cordycepin
+    including biological and pharmacological actions in immunological, hepatic,
+    renal, cardiovascular systems as well as an anti-cancer agent.
+  dateModified: '2016-08-23T08:04:26.873Z'
+  datePublished: '2016-08-23T08:04:26.873Z'
+  title: What is OPUS IX?
+  author: []
+  publisher: {}
+  via: {}
+  sourcePath: _posts/2016-08-23-what-is-opus-ix.md
+dateModified: '2016-08-23T11:44:44.833Z'
+title: What is OPUS IX?
+datePublished: '2016-08-23T11:44:45.557Z'
+author: []
+hasPage: true
 description: >-
   Medicinal mushrooms have been known for thousands of years to produce
   biometabolites which are used or studied as possible treatment for diseases.
@@ -14,18 +43,12 @@ description: >-
   many medicinal reviews on the broad spectrum potential of Cordycepin including
   biological and pharmacological actions in immunological, hepatic, renal,
   cardiovascular systems as well as an anti-cancer agent.
-dateModified: '2016-08-23T08:04:19.583Z'
-datePublished: '2016-08-23T08:04:26.873Z'
-title: What is OPUS IX?
-author: []
 publisher: {}
 via: {}
 starred: false
 sourcePath: _posts/2016-08-23-what-is-opus-ix.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: what-is-opus-ix/index.html
+_type: Blurb
 
 ---
 # What is OPUS IX?
